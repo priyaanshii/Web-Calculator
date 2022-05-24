@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #CBCE91FF, #EA738DFF);
+    }
+.containner1
+{
+    text-align: center;
+}
+#screen{
+    text-align: center;
+    height: 100px;
+    width: 400px;
+    font-size: 31px;
+    background-color: rgb(144, 132, 132);
+    color: aliceblue;
+}
+table{
+   margin: auto;
+}
+button{
+    font-size: 20px;
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+    color: brown;
+    /*border:none;*/
+    border-left:5px ;
+    border-top:5px ;
+}
+button:hover
+{
+    color: rgb(255, 235, 235);
+    background-color: rgb(126, 118, 107);
+}
+.calc
+{
+    display: inline-block;
+    border: 20px;
+}
+.span-two
+{
+    background-color: plum;
+}
+.span-two:hover
+{
+    background-color: rgb(97, 93, 97);
+    color: aliceblue;
+}
+.span-one
+{
+    background-color: rgb(255, 195, 105);
+}
+.span-one:hover
+{
+    background-color: rgb(162, 114, 41);
+    color: aliceblue;
+}
+footer{
+    text-align: center;
+    font-size: 10px;
+    background-color: rgb(241, 231, 231);
+    color: rgb(97, 97, 97);
+}
